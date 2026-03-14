@@ -1,5 +1,5 @@
-
 <div align="center">
+
 
 
 <img src="giphy.gif" width="380" />
@@ -16,11 +16,11 @@
 
 </div>
 
------
+---
 
 ## 🧪 About Me
 
-<img align="right" src="https://media1.giphy.com/media/kXjt5JYY71fthiZdIi/giphy.gif" width="280" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" />
 
 🎉 QA Manual & Automation Engineer with **7+ years of experience** in testing Web, Mobile, Desktop, Cloud-Based and Client/Server applications. I combine deep manual testing expertise with automation skills — and bring AI into the mix to work smarter and faster.
 
@@ -42,7 +42,7 @@
 
 <br clear="right"/>
 
------
+---
 
 ## 💻 Languages & Markup
 
@@ -56,7 +56,7 @@
 
 </div>
 
------
+---
 
 ## 🤖 Automation & Testing Frameworks
 
@@ -71,7 +71,7 @@
 
 </div>
 
------
+---
 
 ## 🧠 AI-Powered QA
 
@@ -87,7 +87,7 @@
 
 </div>
 
------
+---
 
 ## 🛠️ Tools & Collaboration
 
@@ -105,30 +105,30 @@
 
 </div>
 
------
+---
 
 ## 🎯 Testing Expertise
 
 <div align="center">
 
-|✅ Testing Types|🤖 AI in QA          |📋 Methodologies           |📄 Documentation  |
-|---------------|--------------------|--------------------------|-----------------|
-|✅ End-to-End   |🤖 AI Test Generation|⚡ Agile / SCRUM           |📝 Test Strategy  |
-|✅ REST API     |🤖 Copilot Scripting |💧 Waterfall               |📝 Test Plans     |
-|✅ Functional   |🤖 AI Bug Analysis   |🔄 SDLC                    |📝 Test Cases     |
-|✅ Regression   |🤖 Prompt Testing    |⬛ Black / Gray / White Box|📝 Coverage Matrix|
-|✅ UAT          |🤖 LLM QA Workflows  |                          |📝 Bug Reports    |
-|✅ Performance  |                    |                          |                 |
+| ✅ Testing Types | 🤖 AI in QA | 📋 Methodologies | 📄 Documentation |
+|---|---|---|---|
+| ✅ End-to-End | 🤖 AI Test Generation | ⚡ Agile / SCRUM | 📝 Test Strategy |
+| ✅ REST API | 🤖 Copilot Scripting | 💧 Waterfall | 📝 Test Plans |
+| ✅ Functional | 🤖 AI Bug Analysis | 🔄 SDLC | 📝 Test Cases |
+| ✅ Regression | 🤖 Prompt Testing | ⬛ Black / Gray / White Box | 📝 Coverage Matrix |
+| ✅ UAT | 🤖 LLM QA Workflows | | 📝 Bug Reports |
+| ✅ Performance | | | |
 
 </div>
 
------
+---
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </div>
 
------
+---
 
 ## 🐛 Bug Report of the Day
 
@@ -148,32 +148,31 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
------
+---
 
-## 🎯 What I’m Up To
+## 🎯 What I'm Up To
 
 - 🤖 Deepening expertise in **AI-powered test automation** and LLM-driven QA
 - 🔍 Exploring **prompt engineering** for smarter test case generation
 - 🌱 Expanding into **contract testing** with Pact
 - 💬 Ask me about **test strategy, automation architecture, or AI in QA**
 
------
+---
 
 <div align="center">
-<img src="giphy1.gif" width="380"/>
-<br/>
+<img src="giphy1.gif" width="380" />
 
-  
+<br/>
 ### 💬 Words to live by
 
-*“I don’t find bugs. I have relationships with them.”* 🐛
+*"I don't find bugs. I have relationships with them."* 🐛
 
-*“My job: think like a user, act like a hacker, write like a developer.”* 💅
+*"My job: think like a user, act like a hacker, write like a developer."* 💅
 
-*“After 7 years, I don’t test software. I interrogate it.”* 🔎
+*"After 7 years, I don't test software. I interrogate it."* 🔎
 
 <br/>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
 
 </div>
