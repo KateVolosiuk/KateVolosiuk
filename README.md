@@ -160,7 +160,7 @@
 -----
 
 <div align="center">
-<img src="giphy.gif" width="380"/>
+<img src="giphy1.gif" width="380"/>
 <br/>
 
   
